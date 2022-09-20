@@ -3,7 +3,7 @@
 
 <img align="left" width = "47%" src= "https://github-readme-stats.vercel.app/api?username=vamshidhar-kasulabada&show_icons=true&theme=merko"/>
 
-<img align="left" width = "49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vamshidhar-kasulabada&layout=compact"/>
+<img align="left" width = "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vamshidhar-kasulabada&layout=compact"/>
 
 
 <img align="left" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
