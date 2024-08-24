@@ -1,4 +1,4 @@
-# Hi there, I'am Vamshi 👋
+# Hi there, I'm Vamshidhar 👋
 
 
 <img align="left" width = "47%" src= "https://github-readme-stats.vercel.app/api?username=vamshidhar-kasulabada&show_icons=true&theme=merko"/>
